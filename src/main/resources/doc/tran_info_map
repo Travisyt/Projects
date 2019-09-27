@@ -1,0 +1,15 @@
+?tranid
+?from
+?to
+?depart
+?arri
+?deptime
+?arritime
+?timecost
+?date
+?noseat
+?secondseat
+?firstseat
+?bussieat
+
+count = 13
